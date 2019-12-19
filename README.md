@@ -8,4 +8,5 @@ The project is based on four main modules namely
 ### Reinforcement Learning
 ### Tracking
   
-All the editable files has been done during the course and is solely my work
+The TicTacToe.py file elaborates the MinMax algorithm applied in the game of Tic Tac Toe.
+All the editable files has been done during the course and is solely my work.
